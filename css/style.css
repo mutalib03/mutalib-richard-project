@@ -61,3 +61,25 @@
   .logo{
     width:30%
   }
+  .nav-link{
+    font-size: 1.7rem;
+    text-decoration: none;
+    color: black;
+  
+  }
+  
+  .news {
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    margin-bottom: 2rem;
+  }
+  
+  #form{
+    width: 100%;
+    text-align:center;
+  }
+  
