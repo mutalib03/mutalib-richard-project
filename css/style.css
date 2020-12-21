@@ -126,4 +126,21 @@ display: flex;
       display: flex;
       justify-content: space-around;
     }
-    
+
+  .price-container {
+ height: 20rem;
+ width: 15rem;
+background-color: #0080ff;
+padding:1rem;
+margin:1rem;
+font-size: 1.4rem;
+display:flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+text-transform: uppercase;
+}
+
+span{
+  font-weight: bold;
+}
