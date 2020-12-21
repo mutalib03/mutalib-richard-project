@@ -65,9 +65,9 @@
     font-size: 1.7rem;
     text-decoration: none;
     color: black;
-  
+
   }
-  
+
   .news {
     height: 10rem;
     display: flex;
@@ -77,9 +77,34 @@
     text-transform: capitalize;
     margin-bottom: 2rem;
   }
-  
+
   #form{
     width: 100%;
     text-align:center;
   }
-  
+
+  #email{
+ width: 30rem;
+ height:2rem;
+ margin-bottom: 1rem;
+ margin-top: 1rem;
+
+}
+#email::placeholder{
+ font-size: 1rem;
+
+}
+#submit{
+ width: 9rem;
+ height: 2rem;
+ font-size: 1.5rem;
+ background-color: #0080ff;
+ border:1px solid #0080ff;
+}
+#About-us {
+display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-bottom: 3rem;
+ margin-top: 9rem
+}
