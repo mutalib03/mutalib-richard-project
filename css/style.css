@@ -108,3 +108,22 @@ display: flex;
  margin-bottom: 3rem;
  margin-top: 9rem
 }
+#product {
+    padding: 1rem;
+    font-size: 2rem;
+     text-align: center;
+     background-color:#0080ff;
+    }
+    #product h2{
+      text-transform: uppercase;
+    }
+    #product li{
+      list-style: none;
+      padding: 1rem
+    }
+    #pricing {
+    margin-top: 2rem;
+      display: flex;
+      justify-content: space-around;
+    }
+    
